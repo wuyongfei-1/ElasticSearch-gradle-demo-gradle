@@ -1,0 +1,7 @@
+# ElasticSearch相关配置
+#elasticsearch:
+#  ip: 127.0.0.1
+#  port: 9300
+#  pool: 5
+#  cluster:
+#    name: elasticsearch
